@@ -1,5 +1,6 @@
 {
   "name": "x-tags",
   "private": true,
-  "dependencies": {}
+  "dependencies": {},
+  "version": "0.2.4"
 }
